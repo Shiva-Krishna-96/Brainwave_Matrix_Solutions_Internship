@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # --- Page Setup ---
-st.set_page_config(page_title="Superstore Dashboard", layout="wide")
+st.set_page_config(page_title="C:/Users/DELL/OneDrive/Brainwave_Intern/Task1/Superstore.csv", layout="wide")
 
 # --- Load Data ---
 data = pd.read_csv('Superstore.csv',encoding='ISO-8859-1')
