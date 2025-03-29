@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # --- Page Setup ---
-st.set_page_config(page_title="C:/Users/DELL/OneDrive/Brainwave_Intern/Task1/Superstore.csv", layout="wide")
+st.set_page_config(page_title="Superstore Dashboard", layout="wide")
 
 # --- Load Data ---
-data = pd.read_csv('Superstore.csv',encoding='ISO-8859-1')
+data = pd.read_csv('C:/Users/DELL/OneDrive/Brainwave_Intern/Task1/Superstore.csv',encoding='ISO-8859-1')
 data['Order Date'] = pd.to_datetime(data['Order Date'])
 data['Month'] = data['Order Date'].dt.to_period('M')
 
