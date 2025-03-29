@@ -43,7 +43,7 @@ This dashboard provides key insights into Superstore sales data, helping you exp
 ## 🌟 Try It Live!  
 
 🔗 **[Check out the live app here](
-(https://shiva-krishna-96-brainwave-mat-task1superstore-dashboard-cxbjrd.streamlit.app/))**  
+https://shiva-krishna-96-brainwave-mat-task1superstore-dashboard-cxbjrd.streamlit.app/)**  
 
 ---
 
